@@ -27,6 +27,7 @@
   <img align="center" alt="Vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
 </div>
- 
-  ##
-  ![Snake animation](https://github.com/ViniOtacilio/ViniOtacilio/blob/output/github-contribution-grid-snake.svg)
+
+ ### My Gitlab commits!
+[![Isabella Riquetti Git Lab](https://mydevmetrics.azurewebsites.net/GitLab/vinicius30?animation=false&platform=github&theme=dark)](https://github.com/ViniOtacilio)
+
