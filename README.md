@@ -29,3 +29,4 @@
 </div>
  
   ##
+  ![Snake animation](https://github.com/ViniOtacilio/ViniOtacilio/blob/output/github-contribution-grid-snake.svg)
