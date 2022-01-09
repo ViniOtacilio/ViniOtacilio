@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at [Exato Digital](https://exato.digital) as a Full Stack Developer with .NET and Vue.js.
-- 🌱 I’m currently learning Typescript and Node.
+- 🌱 I’m currently learning Ruby on Rails.
 - 👨‍🎓 I'm currently in the final year of my graduation in Systems Analysis and Development degree at [IFSP](https://www.ifsp.edu.br).
 - 📫 How to reach me: viniotacilio@gmail.com or [Linkedin](https://www.linkedin.com/in/vinicius-otacilio/).
 
