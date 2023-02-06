@@ -7,7 +7,7 @@
 - 📫 How to reach me: viniotacilio@gmail.com or [Linkedin](https://www.linkedin.com/in/vinicius-otacilio/).
   
   
-  ### I can work with:
+### I can work with:
 
 
   <div style="display: inline_block"><br>
