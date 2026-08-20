@@ -41,8 +41,8 @@ I've been working with software development for 7+ years, mostly focused on C#/.
 
 - 🇧🇷 São Paulo, Brazil
 - 🎮 Games & anime
+- 🎬 Movies & series
 - 📚 I like reading
-- 🦀 Currently getting into Rust
 
 ### 📫 Find me
 
