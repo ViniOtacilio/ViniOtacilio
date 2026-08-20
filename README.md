@@ -1,4 +1,4 @@
-# Hey, I'm Vini
+# Hey, I'm Vinicius ✨
 
 Software Engineer who enjoys building reliable systems and learning new technologies.
 
