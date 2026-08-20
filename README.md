@@ -1,23 +1,49 @@
-### Hi, my name is Vinicius Otacilio
+# Hey, I'm Vini
 
+Software Engineer who enjoys building reliable systems and learning new technologies.
 
-- 🔭 I’m currently working at [Exato Digital](https://exato.digital) as a Full Stack Developer with .NET, Ruby on Rails and Vue.
-- 🌱 I’m currently learning Design Patterns.
-- 👨‍🎓 Graduated in Systems Analysis and Development at [IFSP](https://www.ifsp.edu.br).
-- 📫 How to reach me: viniotacilio@gmail.com or [Linkedin](https://www.linkedin.com/in/vinicius-otacilio/).
-  
-  
-### I can work with:
+I've been working with software development for 7+ years, mostly focused on C#/.NET, backend development, cloud services, and distributed systems.
 
+### 💻 Stuff I work with
 
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vini-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
+- C# / .NET / ASP.NET Core
+- Azure / AWS
+- REST APIs
+- Distributed systems & asynchronous messaging
+- PostgreSQL / SQL Server
+- Entity Framework / LINQ
+- SignalR & real-time communication
+- JavaScript / TypeScript
+- Vue.js / React
+
+### 🧪 Currently getting into
+
+- Rust 🦀
+- Kubernetes ☸️
+- System-level / native Windows development
+
+### 🛠️ Tech I have worked with
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+### 🎮 A few things about me
+
+- 🇧🇷 São Paulo, Brazil
+- 🎮 Games & anime
+- 📚 I like reading
+- 🦀 Currently getting into Rust
+
+### 📫 Find me
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-otacilio/) · [Portfolio](https://console.deno.com/viniotacilio30/portfolio)
