@@ -46,4 +46,4 @@ I've been working with software development for 7+ years, mostly focused on C#/.
 
 ### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/vinicius-otacilio/) · [Portfolio](https://console.deno.com/viniotacilio30/portfolio)
+[LinkedIn](https://www.linkedin.com/in/vinicius-otacilio/) · [Portfolio](https://portfolio.viniotacilio30.deno.net/)
